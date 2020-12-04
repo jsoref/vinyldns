@@ -1,0 +1,7 @@
+^\.github/
+\.arpa$
+\.ico$
+\.png$
+\.svg$
+^AUTHORS\.md$
+^build\.sbt$
